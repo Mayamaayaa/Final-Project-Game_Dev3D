@@ -1,0 +1,16 @@
+newmtl wooden_fence_panels_1298_MatSG_Mat_material
+illum 7
+Kd 0.447059 0.329412 0.560784
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+map_Pr PurpleFence/wooden_fence_panels_1298_MatSG_Mat_material_roughness.png
+Ns 16
+Ks 1 1 1
+norm PurpleFence/wooden_fence_panels_1298_MatSG_Mat_material_normal.png

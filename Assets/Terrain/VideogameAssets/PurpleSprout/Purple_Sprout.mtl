@@ -1,0 +1,16 @@
+newmtl plant_sprout_abstract_MatSG_material
+illum 7
+Kd 0.32549 0.223529 0.458824
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+map_Pr Purple_Sprout/plant_sprout_abstract_MatSG_material_roughness.png
+Ns 16
+Ks 1 1 1
+norm Purple_Sprout/plant_sprout_abstract_MatSG_material_normal.png

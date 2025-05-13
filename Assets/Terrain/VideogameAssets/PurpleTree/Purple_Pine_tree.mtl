@@ -1,0 +1,16 @@
+newmtl initialShadingGroup
+illum 7
+Kd 0.735357 0.735357 0.735357
+adobe_interior_color 1 1 1
+Ni 1
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+map_Kd Purple_Pine_tree/initialShadingGroup_base_color.png
